@@ -1,0 +1,38 @@
+# 编辑器和IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 操作系统
+Thumbs.db
+Desktop.ini
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+
+# Node modules（如果将来使用）
+node_modules/
+package-lock.json
+
+# 构建输出（如果将来使用）
+dist/
+build/
+.output/
+
+# 环境配置
+.env
+.env.local
+.env.production
+
+# 备份文件
+*.bak
+*.backup
+
